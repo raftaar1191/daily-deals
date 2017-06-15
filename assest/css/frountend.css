@@ -1,0 +1,750 @@
+.harimay_widget_deals_products_for_relaod ul.harimay_countdown-times{
+    list-style: none;
+    margin: 5px 0;
+    padding: 0;
+    width: 100%;
+    display: block;
+    position: relative
+
+}
+
+.harimay_widget_deals_products_for_relaod ul.harimay_countdown-times li{
+    display: inline-block;
+    padding: 0px 6px;
+    margin-left: 1px;
+    border: 2px solid #e2e2e2;
+    text-transform: lowercase;
+    text-align: center;
+    color: #999999;
+    background: #fff;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+
+.emi_dd_main .clock_main li b {
+    color: #000;
+    display: block;
+}
+
+
+.harimay_widget_deals_products_for_relaod ul.harimay_product_dd_widget_class{
+    list-style: none;
+}
+
+
+.harimay_widget_deals_products_for_relaod .widget_deals_products{
+    background: #fff;
+    border: 3px #E74848 solid;   
+}
+
+
+.harimay_widget_deals_products_for_relaod .HARIMAY_dd_header {
+    background: #333;
+    color: #fff;
+    font-size: 14px;
+    border-top: 3px solid #e74848;
+    font-weight: 700;
+    border-bottom: 0;
+    padding: 10px 15px;
+}
+
+
+.harimay_widget_deals_products_for_relaod .harimay_product_sub {
+    padding: 10px 10px 16px;
+    border: 3px #E74848 solid;
+    margin-top: -1px;
+    border-top: 0;
+}
+
+
+.harimay_widget_deals_products_for_relaod .sale-off-harimay{
+    padding: 8.5px 4px;
+    background: #e74848;
+    position: relative;
+    color: #fff;
+    float: left;
+}
+
+
+
+
+/*
+
+div.sale-off-harimay{
+    padding: 8.5px 4px;
+    background: #e74848;
+    position: relative;
+    color: #fff;
+    float: left;
+}
+
+ul.harimay_product_dd_widget_class{
+    margin: 0;
+    padding: 10px 0  0;
+    list-style: none;
+}
+
+ul.harimay_product_dd_widget li{
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+
+.clock{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    list-style: none;
+}
+
+
+.clock li{
+    background-color: rgba(51,51,51, 0.8);
+    padding: 10px 3.5% 5px;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0.5% 5px;
+}
+
+.clock li span{
+    display: block;
+    font-size: 60px;
+}
+    
+ul.harimay_product_dd_widget li.HARIMAY_DD_starting{
+    font-size: 18px;
+    color: #fff;
+    font-weight: normal;
+    text-transform: capitalize;
+    text-align: left;
+    display: inline-block;
+    }
+ul.harimay_product_dd_widget_class li.HARIMAY_DD_starting h3{ 
+    margin: 8px 0;
+    padding: 10px 0;
+    min-height: 0;
+    border-bottom: 1px solid #e2e2e2;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+    font-family: "Raleway", sans-serif;
+    line-height: 25px;
+    background: none;   
+    text-transform: none;
+    border-top:0;
+    
+    }
+ul.harimay_product_dd_widget li.HARIMAY_DD_starting a.add_to_cart_button{   
+    display: block;
+    width: 120px;
+    margin: 7px 0 0;
+    line-height: 1;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 10px 0.5%;
+    text-align: center;
+    border-radius: 3px;
+    color: #515151;
+    background-color: #ebe9eb;
+    border: 0;
+    }
+    
+/* ====================================
+
+.wpb_content_element  .wpb_wrapper h3{
+    position: relative;
+    overflow: hidden;
+    border-top: 3px solid #e74848;
+    color: #fff;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    padding: 13px 15px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-size: 1.4rem;
+    background: #333333;
+    }
+    
+ul.harimay_product_dd_widget_class li.HARIMAY_DD_starting .rating {
+    display: inline-block;
+    float: right;
+    margin: 10px 0 0;
+    }
+        
+.harimay_dd_main ul.harimay_product_dd_widget_class li.HARIMAY_DD_starting{
+    width:100%;
+    margin:0px;
+    }
+    
+.harimay_dd_main ul.harimay_product_dd_widget_class{
+    background: #fff;
+    list-style: none;
+    padding: 0;
+    margin:0px;
+}
+    
+.harimay_dd_main .harimay_product_sub a{
+    text-decoration:none;
+    }   
+    
+    
+.harimay_dd_main ul.harimay_product_dd_widget_class li.HARIMAY_DD_starting h3.HARIMAY_dd_header{
+    background: #333;
+    color:#fff;
+    font-size: 12px ;
+    border-top: 3px solid #e74848;
+    margin: 0 0 0px;
+    font-weight: 700;
+    border-bottom: 0;
+    padding: 10px 15px;
+    }
+    
+.harimay_dd_main ul.clock_main{
+    list-style: none;
+    margin: 5px 0;
+    padding: 0;
+    width: 100%;
+    display: block;
+    position: relative;
+    }
+    
+.harimay_dd_main .clock_main li{
+    display: inline-block;
+    padding: 0px 6px;
+    margin-left: 1px;
+    border: 2px solid #e2e2e2;
+    text-transform: lowercase;
+    text-align: center;
+    color: #999999;
+    background: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    }
+    
+.harimay_dd_main .clock_main li b {
+    color: #000;
+    display: block;
+}   
+.harimay_dd_main .harimay_product_sub{
+    padding: 10px 10px 16px;
+    border: 3px #E74848 solid;
+    margin-top: -1px;
+    border-top: 0;
+    }
+    
+.harimay_dd_main .harimay_product_sub figure.image{
+    margin: 15px 0 0;
+    }
+    
+    
+.harimay_product_sub .sale-off-harimay{
+    padding: 12px 4px;
+    margin: 5px 0 0;
+    }
+
+.harimay_product_sub .price{
+    font-size:16px;
+    color:#000;
+    font-weight:bold;
+    display:inline-block;
+    }
+
+ul.harimay_product_dd_widget_class li.HARIMAY_DD_starting .harimay_product_sub h3{
+    margin-top:-5px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
+    
+.harimay_product_sub .star-rating:before {
+    content: "\73\73\73\73\73";
+    color: #999999;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    }       
+.harimay_product_sub .star-rating {
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    width: 62px;
+    height: 10px;
+    line-height: 1em;
+    font-family: 'star';
+    font-size: 10px;
+    letter-spacing: 2px;
+    }
+.harimay_product_sub .star-rating span{
+    margin:10px 0 0;
+    display:inline-block;
+    }
+
+.widget-products{
+    background: #fff;
+    overflow: hidden;
+    border: 0px solid transparent;
+    padding: 0px;
+    position: relative;
+    }
+
+.widget-products .widget-title{
+    position: relative;
+    overflow: hidden;
+    border-top: 3px solid #e74848;
+    color: #fff;
+    font-weight: 700;
+    padding: 13px 15px;
+    margin: 0;
+    font-size: 14px;
+    background: #333333;
+    }
+.widget.widget-products .widget-content {
+    padding: 0;
+    }   
+.products-layout {
+    border-top: 1px solid #e2e2e2;
+    border-right: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+    border-left: 1px solid #e2e2e2;
+    overflow: hidden;
+    }
+.product_list_widget {
+    background: #fff;
+    }
+    
+.product_list_widget .product {
+    position: relative;
+    border-right: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+    padding: 0;
+    width: 33.33333%;
+    float: left;
+    }
+    
+.product_list_widget .product:last-child{
+    border-right:none;
+    }   
+    
+.product_list_widget .widget-product {
+        position: relative;
+    margin: 0px;
+    padding: 20px 10px;
+    border-bottom: 1px solid #e2e2e2;
+    overflow: hidden;
+    min-height: 140px;
+    }
+.product_list_widget .widget-product:last-child{
+    border-bottom:none;
+    }   
+    
+.product_list_widget .widget-product .image {
+    display: block;
+    margin-right: 15px;
+    }
+
+.product_list_widget .widget-product .name {
+    font-weight: 400;
+    text-transform: inherit;
+    margin: 0 0 5px;
+    font-size: 14px;
+    min-height: 40px;
+    line-height: 18px;
+    }
+.product_list_widget .widget-product .name a{
+    color: #000000;
+    text-decoration:none;
+    }
+
+
+.product_list_widget .widget-product .price {
+    font-size: 14px;
+    padding: 0;
+    border: 0;
+    }
+.price del {
+    color: #999999;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    }
+
+.price ins {
+    text-decoration: none;
+    background: none;
+    display:block;
+    }
+
+.woocommerce .woocommerce-product-rating .star-rating{
+    margin: .5em 4px 0 4px !important;
+    float: none !important;
+    display: inline-block;
+    }
+.contribution-type-selector>a.active, .contribution-type-selector>a:visited.active {
+    color: black !important;
+    font-weight: bold;
+    font-size: 185%;
+    text-decoration: none;
+    display: table;
+    width: 100%;
+    margin: 10px 0;
+    }
+    
+.woocommerce #reviews .form-contribution .form-row, .woocommerce-page #reviews .form-contribution .form-row {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin: 0 0 6px;
+    color: black;
+    }
+.woocommerce #reviews .form-contribution .form-row.attachment-type, .woocommerce #reviews .form-contribution .form-row#subscribe_to_replies_field{
+    display:none !important;
+    }
+    
+.form-review label span.addsi {
+    font-weight: 400!important;
+    color: #ADADAD;
+    }
+
+
+.form-review #review_rating_field label:first-child{
+    float: left;
+    display: inline-block;
+    color: black;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    }
+    
+.form-review #review_rating_field fieldset {
+    float: left!important;
+    margin-left: 15px;
+    margin-top: 6px;
+    }
+
+
+.woocommerce-page #reviews .form-contribution #review_rating_field .star-label{
+    float: left !important;
+    margin-left: 1em;
+    margin-top: 7px;
+    } 
+
+.woocommerce form .form-row .required{
+    font-size: 16px;
+    }
+.woocommerce form .form-row label{
+    font-weight: bold;
+    font-size: 14px;
+    }
+
+.woocommerce-page #reviews .form-row input[type="text"], .woocommerce-page #reviews .form-row  input[type="number"], .woocommerce-page #reviews .form-row  input[type="email"], .woocommerce-page #reviews .form-row  input[type="password"], .woocommerce-page #reviews .form-row  textarea, .woocommerce-page #reviews .form-row  select{
+    border: 1px solid #e2e2e2;
+    padding: 5px 6px;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    font-size: inherit;
+    line-height: inherit;
+    border-radius:0px;
+    }
+
+
+.woocommerce-page #reviews .form-row button.button{
+      display: inline-block;
+    margin:10px 0 0;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 0px solid transparent;
+    white-space: nowrap;
+    padding: 10px 30px;
+    font-size: 12px;
+    line-height: 1.4286;
+    border-radius: 4px;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #e74848;
+    border: 0px solid #e74848;
+    -webkit-box-shadow: 0 -4px 0 -1px #bd3b3b inset;
+    box-shadow: 0 -4px 0 -1px #bd3b3b inset;
+    text-shadow:none;
+    }
+    
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.contribution-actions{
+    display:none;
+    }   
+    
+.woocommerce-page #reviews #comments .form-contribution_comment{
+    display:none;
+    }   
+    
+.revie_and_earn{
+    display:inline-block;
+    width:100%;
+    }   
+    
+.woocommerce div.product .woocommerce-product-rating .wc_product_rating_info, .woocommerce div.product .woocommerce-product-rating .harimay_customer_count{
+    font-size:14px;
+    font-weight:bold;
+    }
+    
+    
+.panel-grid-cell .panel-grid .panel-grid-cell#pgc-w56a36406e9d64-2-0{
+    padding:0px;
+  }
+
+.single-product.woocommerce .cart button.single_add_to_cart_button{
+    clear:both !important;
+    display: inline-block !important;
+    margin:10px 0 !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+    background-image: none !important;
+    border: 0px solid transparent !important;
+    white-space: nowrap !important;
+    padding: 10px 30px !important;
+    font-size: 12px !important;
+    line-height: 1.4286 !important;
+    border-radius: 4px !important;
+    -webkit-transition: all 0.4s ease 0s !important;
+    -o-transition: all 0.4s ease 0s !important;
+    transition: all 0.4s ease 0s !important;
+    text-transform: uppercase !important;
+      color: #fff !important;
+    background: #e74848 !important;
+    border: 0px solid #e74848 !important;
+    -webkit-box-shadow: 0 -4px 0 -1px #bd3b3b inset !important;
+    box-shadow: 0 -4px 0 -1px #bd3b3b inset !important;
+      text-shadow:none !important;
+    width: 170px !important;
+    }
+
+
+.single-product.woocommerce .cart a.wl-add-to-single{
+    clear:both !important;
+    display: inline-block !important;
+    margin:0 0 10px 0 !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+    background-image: none !important;
+    border: 0px solid transparent !important;
+    white-space: nowrap !important;
+    padding: 10px 30px !important;
+    font-size: 12px !important;
+    line-height: 1.4286 !important;
+    border-radius: 4px !important;
+    -webkit-transition: all 0.4s ease 0s !important;
+    -o-transition: all 0.4s ease 0s !important;
+    transition: all 0.4s ease 0s !important;
+    text-transform: uppercase !important;
+      color: #fff !important;
+    background: #e74848 !important;
+    border: 0px solid #e74848 !important;
+    -webkit-box-shadow: 0 -4px 0 -1px #bd3b3b inset !important;
+    box-shadow: 0 -4px 0 -1px #bd3b3b inset !important;
+      text-shadow:none !important;
+    width: 170px !important;
+    }
+
+
+
+
+.single-product.woocommerce .quantity input[type="number"]{
+    border: 1px solid #e2e2e2;
+    padding: 5px 6px;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+        }
+    
+#pg-w56a5c7cf3cc48-3 #pgc-w56a5c7cf3cc48-3-0{
+    margin:0px !important; 
+    padding:0px !important;
+    width:100% !important;
+    }
+
+
+
+.harimay_unreview_main h3.widget-title{
+    position: relative;
+    overflow: hidden;
+    border-top: 3px solid #e74848;
+    color: #fff;
+    font-weight: 700;
+    padding: 13px 15px;
+    margin: 0;
+    font-size: 16px;
+    background: #333333;
+    }
+
+.harimay_unreview_main .harimay_unreview_sub{
+    border-top: 1px solid #e2e2e2;
+    border-right: 1px solid #e2e2e2;
+    /*border-bottom: 2px solid #e2e2e2;
+    border-left: 1px solid #e2e2e2;
+    overflow: hidden;
+    }
+.harimay_unreview_main .harimay_unreview_sub ul.harimay_unreview_main_ul{
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    position:relative;
+    display:block;
+    }
+.harimay_unreview_main .harimay_unreview_sub ul.harimay_unreview_main_ul li{
+    margin: 0px;
+    padding: 20px 8px;
+    border-right: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+    float: left;
+    width: 33.25%;
+    min-height: 140px;
+    }
+    
+.harimay_unreview_main .harimay_unreview_sub ul.harimay_unreview_main_ul li:nth-child(3n){  
+    border-right:none;
+    }   
+    
+    
+.harimay_unreview_main .harimay_unreview_sub ul.harimay_unreview_main_ul li h3{
+    padding: 0px;
+    font-weight: 400;
+    text-transform: inherit;
+    margin: 0 0 5px;
+    font-size: 14px;
+    line-height: 18px;
+    }
+
+.harimay_unreview_main .harimay_unreview_sub ul.harimay_unreview_main_ul li h3 a{
+    text-decoration:none;
+    color: #000000;
+    } 
+
+.harimay_unreview_main .harimay_unreview_sub ul.harimay_unreview_main_ul li .media-body{
+    margin-left:90px;
+    }
+    
+
+#pgc-24791-0-1 .widget  .panel-widget-style{
+    margin:0 0 20px;
+    }
+
+
+#pgc-24791-0-1 .widget  .panel-widget-style h3.widget-title{
+    background: #333;
+    color: #fff;
+    font-size: 14px;
+    border-top: 3px solid #e74848;
+    margin: 0 0 0px;
+    font-weight: 700;
+    border-bottom: 0;
+    padding: 10px 15px;
+    }
+    
+    
+#pgc-24791-0-1 .widget  .product_list_widget{   
+    margin:0 0 20px;
+    padding: 10px 10px 16px;
+    border: 3px #E74848 solid;
+    margin-top: -1px;
+    border-top: 0;
+    }
+
+#pgc-24791-0-1 .widget  .product_list_widget a{
+    text-decoration:none;
+    color:#000;
+    font-weight:400;
+    }
+
+#pgc-24791-0-1 .widget  .product_list_widget li .amount{
+    font-size:14px;
+    font-weight:400;
+    color:#000;
+    }
+    
+#pgc-24791-0-1 .widget  .product_list_widget a .product-title{
+    font-size:13px;
+    }   
+.contribution-rating .star-rating{  
+    overflow: hidden;
+    position: relative;
+    height: 1em;
+    line-height: 1;
+    font-size: 1em;
+    width: 5.4em;
+    font-family: star;  
+    }
+.contribution-rating .star-rating:before{   
+    content: "\73\73\73\73\73";
+    color: #d3ced2;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    }   
+.contribution-rating .star-rating span {
+    overflow: hidden;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding-top: 1.5em;
+    }   
+.contribution-rating .star-rating span:before {
+    content: "\53\53\53\53\53";
+    top: 0;
+    position: absolute;
+    left: 0;
+    }   
+    
+    
+table.shop_table{
+    width: 100%;
+    height: auto;
+    margin-top: 19px;
+    margin-bottom: 19px;
+    border: 1px solid #e2e2e2;
+    }   
+    
+.table.shop_table thead tr th, .table.shop_table tbody tr td{
+    padding: 10px;
+    line-height: 1.4286;
+    vertical-align: top;
+    border: 1px solid #e2e2e2;
+    }   
+    
+    
+.product  .points{
+    margin:0px !important;
+}
+
+
+.hidden{
+    display: none;
+}
+
+
+
+
+
+
+
+    
